@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c85236fb1c47ad918f365f83a8b0d90\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\95a4742571c885dcefacffa348062d2b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1bc7cc84d91703c663279c80559aa9b7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\874e8f7600253707e6df49d57688a2d6\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\d53a0b53369578c093b4ac752cc91cea\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\626d0617c3c03ffa4252f6d6e3617c0e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\dde46a92bae909265133abd939c346fb\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c6244c88d59f5f954a4536240704e4d0\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\264ea94ee1704663d10c15c11574b7f0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\04c3ffcf8d41308d28899b0c76bc50a0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\7c87153d32291f17af23e4f584252327\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\fe1485e7a2ff9f52fc31f1a3c6cb679a\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:2:5-21
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c85236fb1c47ad918f365f83a8b0d90\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c85236fb1c47ad918f365f83a8b0d90\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c85236fb1c47ad918f365f83a8b0d90\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c85236fb1c47ad918f365f83a8b0d90\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\95a4742571c885dcefacffa348062d2b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\95a4742571c885dcefacffa348062d2b\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1bc7cc84d91703c663279c80559aa9b7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1bc7cc84d91703c663279c80559aa9b7\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\dde46a92bae909265133abd939c346fb\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\dde46a92bae909265133abd939c346fb\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c6244c88d59f5f954a4536240704e4d0\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\c6244c88d59f5f954a4536240704e4d0\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.go.MainActivity
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c85236fb1c47ad918f365f83a8b0d90\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\2c85236fb1c47ad918f365f83a8b0d90\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\95a4742571c885dcefacffa348062d2b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\95a4742571c885dcefacffa348062d2b\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1bc7cc84d91703c663279c80559aa9b7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.1.aar\1bc7cc84d91703c663279c80559aa9b7\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\874e8f7600253707e6df49d57688a2d6\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\874e8f7600253707e6df49d57688a2d6\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\d53a0b53369578c093b4ac752cc91cea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\d53a0b53369578c093b4ac752cc91cea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\626d0617c3c03ffa4252f6d6e3617c0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\626d0617c3c03ffa4252f6d6e3617c0e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\dde46a92bae909265133abd939c346fb\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\dde46a92bae909265133abd939c346fb\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\264ea94ee1704663d10c15c11574b7f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\264ea94ee1704663d10c15c11574b7f0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\04c3ffcf8d41308d28899b0c76bc50a0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\04c3ffcf8d41308d28899b0c76bc50a0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\7c87153d32291f17af23e4f584252327\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\7c87153d32291f17af23e4f584252327\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\fe1485e7a2ff9f52fc31f1a3c6cb679a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Boss\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\fe1485e7a2ff9f52fc31f1a3c6cb679a\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Boss\Desktop\go\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
